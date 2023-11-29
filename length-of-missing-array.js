@@ -19,3 +19,6 @@ the method should return 0 too!
 There will always be a missing element and 
 its length will be always between the given arrays. 
 */
+
+
+// Solution
